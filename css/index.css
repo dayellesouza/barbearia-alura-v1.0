@@ -1,4 +1,6 @@
-body {}
+header {
+	padding-left: 20px;
+}
 
 #imgBanner {
 	width: 100%; /* largura */
@@ -9,7 +11,7 @@ body {}
 	padding: 30px;
 }
 
-h1 {
+h2, h3 {
 	text-align: center; /* alinhamento de texto */
 }
 
@@ -34,9 +36,7 @@ em strong {
 	padding: 20px; /* espaçamento interno */
 }
 
-h2 {
-	text-align: center;
-}
+
 
 ul {
 	display: inline-block; /* permite alteração de largura/ altura*/
